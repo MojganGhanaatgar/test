@@ -1,3 +1,3 @@
 import jquery From 'jquery'
 
-alert('hello world hmm');
+alert('hello world');
