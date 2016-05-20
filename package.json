@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "this is a test app that mojo is making",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "project",
+    "javascript"
+  ],
+  "author": "Mojgan Ghanaatgar",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2"
+  }
+}
